@@ -1,0 +1,102 @@
+[
+    {
+        "Origin": { "Name": "A" },
+        "Destination": { "Name": "B" },
+        "Value": 1
+    },
+    {
+        "Origin": { "Name": "A" },
+        "Destination": { "Name": "C" },
+        "Value": 1
+    },
+    {
+        "Origin": { "Name": "A" },
+        "Destination": { "Name": "D" },
+        "Value": 1
+    },
+    {
+        "Origin": { "Name": "A" },
+        "Destination": { "Name": "E" },
+        "Value": 1
+    },
+    {
+        "Origin": { "Name": "B" },
+        "Destination": { "Name": "A" },
+        "Value": 1
+    },
+    {
+        "Origin": { "Name": "B" },
+        "Destination": { "Name": "C" },
+        "Value": 1
+    },
+    {
+        "Origin": { "Name": "B" },
+        "Destination": { "Name": "D" },
+        "Value": 1
+    },
+    {
+        "Origin": { "Name": "B" },
+        "Destination": { "Name": "E" },
+        "Value": 2
+    },
+    {
+        "Origin": { "Name": "C" },
+        "Destination": { "Name": "A" },
+        "Value": 1
+    },
+    {
+        "Origin": { "Name": "C" },
+        "Destination": { "Name": "B" },
+        "Value": 1
+    },
+    {
+        "Origin": { "Name": "C" },
+        "Destination": { "Name": "D" },
+        "Value": 2
+    },
+    {
+        "Origin": { "Name": "C" },
+        "Destination": { "Name": "E" },
+        "Value": 1
+    },
+    {
+        "Origin": { "Name": "D" },
+        "Destination": { "Name": "A" },
+        "Value": 1
+    },
+    {
+        "Origin": { "Name": "D" },
+        "Destination": { "Name": "C" },
+        "Value": 2
+    },
+    {
+        "Origin": { "Name": "D" },
+        "Destination": { "Name": "B" },
+        "Value": 1
+    },
+    {
+        "Origin": { "Name": "D" },
+        "Destination": { "Name": "E" },
+        "Value": 1
+    },
+    {
+        "Origin": { "Name": "E" },
+        "Destination": { "Name": "A" },
+        "Value": 1
+    },
+    {
+        "Origin": { "Name": "E" },
+        "Destination": { "Name": "C" },
+        "Value": 1
+    },
+    {
+        "Origin": { "Name": "E" },
+        "Destination": { "Name": "D" },
+        "Value": 1
+    },
+    {
+        "Origin": { "Name": "E" },
+        "Destination": { "Name": "B" },
+        "Value": 2
+    }
+]

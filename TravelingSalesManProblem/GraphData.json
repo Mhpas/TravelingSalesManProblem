@@ -1,0 +1,182 @@
+﻿[
+  {
+    "Origin": {
+      "Name": "Kleve"
+    },
+    "Destination": {
+      "Name": "Emmerich"
+    },
+    "Value": 14
+  },
+  {
+    "Origin": {
+      "Name": "Kleve"
+    },
+    "Destination": {
+      "Name": "Bedburg-Hau"
+    },
+    "Value": 6
+  },
+  {
+    "Origin": {
+      "Name": "Kleve"
+    },
+    "Destination": {
+      "Name": "Goch"
+    },
+    "Value": 13
+  },
+  {
+    "Origin": {
+      "Name": "Kleve"
+    },
+    "Destination": {
+      "Name": "Uedem"
+    },
+    "Value": 18
+  },
+  {
+    "Origin": {
+      "Name": "Emmerich"
+    },
+    "Destination": {
+      "Name": "Kleve"
+    },
+    "Value": 14
+  },
+  {
+    "Origin": {
+      "Name": "Emmerich"
+    },
+    "Destination": {
+      "Name": "Bedburg-Hau"
+    },
+    "Value": 15
+  },
+  {
+    "Origin": {
+      "Name": "Emmerich"
+    },
+    "Destination": {
+      "Name": "Goch"
+    },
+    "Value": 25
+  },
+  {
+    "Origin": {
+      "Name": "Emmerich"
+    },
+    "Destination": {
+      "Name": "Uedem"
+    },
+    "Value": 30
+  },
+  {
+    "Origin": {
+      "Name": "Bedburg-Hau"
+    },
+    "Destination": {
+      "Name": "Kleve"
+    },
+    "Value": 6
+  },
+  {
+    "Origin": {
+      "Name": "Bedburg-Hau"
+    },
+    "Destination": {
+      "Name": "Emmerich"
+    },
+    "Value": 15
+  },
+  {
+    "Origin": {
+      "Name": "Bedburg-Hau"
+    },
+    "Destination": {
+      "Name": "Goch"
+    },
+    "Value": 14
+  },
+  {
+    "Origin": {
+      "Name": "Bedburg-Hau"
+    },
+    "Destination": {
+      "Name": "Uedem"
+    },
+    "Value": 13
+  },
+  {
+    "Origin": {
+      "Name": "Uedem"
+    },
+    "Destination": {
+      "Name": "Kleve"
+    },
+    "Value": 18
+  },
+  {
+    "Origin": {
+      "Name": "Uedem"
+    },
+    "Destination": {
+      "Name": "Emmerich"
+    },
+    "Value": 30
+  },
+  {
+    "Origin": {
+      "Name": "Uedem"
+    },
+    "Destination": {
+      "Name": "Goch"
+    },
+    "Value": 9
+  },
+  {
+    "Origin": {
+      "Name": "Uedem"
+    },
+    "Destination": {
+      "Name": "Bedburg-Hau"
+    },
+    "Value": 13
+  },
+  {
+    "Origin": {
+      "Name": "Goch"
+    },
+    "Destination": {
+      "Name": "Kleve"
+    },
+    "Value": 13
+  },
+  {
+    "Origin": {
+      "Name": "Goch"
+    },
+    "Destination": {
+      "Name": "Emmerich"
+    },
+    "Value": 25
+  },
+  {
+    "Origin": {
+      "Name": "Goch"
+    },
+    "Destination": {
+      "Name": "Uedem"
+    },
+    "Value": 9
+  },
+  {
+    "Origin": {
+      "Name": "Goch"
+    },
+    "Destination": {
+      "Name": "Bedburg-Hau"
+    },
+    "Value": 14
+  }
+]
